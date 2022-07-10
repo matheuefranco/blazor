@@ -1,0 +1,6 @@
+C:\Users\mefma\source\repos\BlazorAppTeste1\BlazorAppTeste1\obj\Debug\net6.0\AppEmprestimo.csproj.AssemblyReference.cache
+C:\Users\mefma\source\repos\BlazorAppTeste1\BlazorAppTeste1\obj\Debug\net6.0\AppEmprestimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mefma\source\repos\BlazorAppTeste1\BlazorAppTeste1\obj\Debug\net6.0\AppEmprestimo.AssemblyInfoInputs.cache
+C:\Users\mefma\source\repos\BlazorAppTeste1\BlazorAppTeste1\obj\Debug\net6.0\AppEmprestimo.AssemblyInfo.cs
+C:\Users\mefma\source\repos\BlazorAppTeste1\BlazorAppTeste1\obj\Debug\net6.0\AppEmprestimo.csproj.CoreCompileInputs.cache
+C:\Users\mefma\source\repos\BlazorAppTeste1\BlazorAppTeste1\obj\Debug\net6.0\AppEmprestimo.MvcApplicationPartsAssemblyInfo.cache

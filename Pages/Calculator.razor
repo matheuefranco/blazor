@@ -1,0 +1,32 @@
+﻿<h1>Calculadora de Emprestimos </h1>
+<label for="valor">Valor do Empréstimo</label>
+<br />
+<input @bind="valor" type="number" />
+<br />
+<label for="parcelas">Quantidade de parcelas</label>
+<br />
+<input @bind="parcelas" type="number" />
+<br />
+<br />
+<button @onclick="calcEmprestimo"> Simular Emprestimo </button>
+<br />
+<br />
+<label>O total a ser pago será de R$ <span>@total</span></label>
+<br />
+<br />
+<label>O valor da parcela será de R$ <span>@valorParcelas</span>
+    em <span>@parcelas</span> vezes</label>
+<br />
+<br />
+@code {
+    private double valor { get; set; }
+    private int parcelas { get; set; }
+    private double total { get; set; }
+    private double valorParcelas{ get; set; }
+    private void calcEmprestimo()
+    {
+        total = valor+(valor * (parcelas * 0.0284));
+        valorParcelas = Math.Round(total / parcelas, 2);
+    }
+
+}
