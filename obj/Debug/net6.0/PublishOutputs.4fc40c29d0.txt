@@ -1,0 +1,1 @@
+C:\Users\mefma\source\repos\BlazorAppTeste1\BlazorAppTeste1\bin\Debug\net6.0\publish\web.config
